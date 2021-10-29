@@ -1,5 +1,7 @@
-"It is difficult to find happiness within oneself, but it is impossible to find it anywhere else." 
-- Arthur Schopenhauer.
+"Happiness is the feeling that power increases - that resistance is being overcome." 
 
-![image](https://user-images.githubusercontent.com/88633211/139114174-62f367bd-e96c-4534-802d-1f339a6efad5.png)
+- Friedrich Nietzsche.
+
+![image](https://user-images.githubusercontent.com/88633211/139499269-afa02bf5-c413-48b8-8dfe-0bff8762e088.png)
+
 
