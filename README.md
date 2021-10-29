@@ -2,7 +2,7 @@
 
 - Friedrich Nietzsche.
 
-![image](https://user-images.githubusercontent.com/88633211/139499313-df1eb199-f7be-4d1e-99de-f69f41a043e9.png)
+![image](https://user-images.githubusercontent.com/88633211/139499952-aad93812-fc1d-4333-bd88-0e7952b936ce.png)
 
 
 
