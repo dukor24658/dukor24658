@@ -1,4 +1,5 @@
 "El arte es para consolar a los que están quebrantados por la vida"
+
 “It is good to love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is well done.” “I dream my painting and I paint my dream.”
 
  - Vincent Van Gogh
