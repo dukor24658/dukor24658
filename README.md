@@ -11,7 +11,7 @@
 <a href="https://es.stackoverflow.com/users/256183/dukor24658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:256183" height="30" width="40" /></a>
 <a href="https://fb.com/iridiscentmistake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iridiscentmistake" height="30" width="40" /></a>
 <a href="https://instagram.com/nearlyyesterday_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nearlyyesterday_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uco6bun18tk8wpfgj8h_lnng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uco6bun18tk8wpfgj8h_lnng" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uco6bun18tk8wpfgj8h_lnng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uco6bun18tk8wpfgj8h_lnng" height="30" width="40" /></a>
 <a href="https://discord.gg/Z95vJah7P4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Z95vJah7P4" height="30" width="40" /></a>
 </p>
 
