@@ -1,9 +1,5 @@
 <h3 align="center">- Vincent Van Gogh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dukor24658" alt="dukor24658" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nearlyyesterday" target="blank"><img src="https://img.shields.io/twitter/follow/nearlyyesterday?logo=twitter&style=for-the-badge" alt="nearlyyesterday" /></a> </p>
-
 - 🌱 I’m currently learning **Python, HTML, JavaScript, and CSS**
 
 - 📫 How to reach me **hagaleparce@gmail.com**
