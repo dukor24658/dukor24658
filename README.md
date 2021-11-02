@@ -1,6 +1,6 @@
 <h1 align="center">"Art is to console those who are broken by life."</h1>
 <h3 align="center">- Vincent Van Gogh</h3>
-
+<br>
 
 - 🌱 I’m currently learning **Python, HTML, JavaScript, and CSS**
 
